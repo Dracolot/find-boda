@@ -1,1 +1,5 @@
 info.setScore(0)
+info.setScore(0)
+info.setScore(0)
+info.setScore(0)
+info.setScore(0)
